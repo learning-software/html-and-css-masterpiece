@@ -1,0 +1,43 @@
+body{
+  background-color: #666;
+  width: 90%;
+  margin: auto;
+  font-size: 150%;
+}
+header{
+  background-color: rgba(0, 0, 100, 01);
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+h1{
+  color: #fff;
+}
+nav a{
+  font-size: 150%;
+  color: rgba(255, 0, 0, 1);
+  padding: 2%;
+}
+section{
+  width: 31%;
+  display: inline-block;
+  float: left;
+  margin-right: 2%;
+  overflow: auto;
+}
+h2{
+  color: #fff;
+  background-color: rgba(0, 0, 100, 01);
+}
+details{
+  font-style: italic;
+}
+footer{
+  clear: both;
+  background-color: rgba(125,225,125,1);
+  height: auto;
+  padding-top: 10px;
+}
+img{
+  width: 60px;
+}
